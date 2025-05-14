@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">YOLOv8 TfLite</string>
+    <string name="gpu">GPU</string>
+    <string name="obstacle_detected">Obstacle detected, it\'s %1$s in front.</string>
+    <string name="looking_for_door">Looking for a door.</string>
+</resources>
